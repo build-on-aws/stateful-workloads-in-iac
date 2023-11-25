@@ -1,0 +1,19 @@
+# macOS specifics.
+.DS_Store
+
+# Python virtualenv directory.
+.env/
+
+# IDE-specific stuff.
+.idea/
+*.iml
+
+# Archives.
+*.zip
+*.tar.gz
+
+# Private scripts.
+*.private.sh
+
+# Temporary artifacts:
+.tmp/
