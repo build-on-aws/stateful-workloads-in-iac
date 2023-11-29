@@ -8,6 +8,7 @@ This repository is the main asset for the *AWS re:Invent 2023* chalk talk titled
 
 - [Session resource: Mind Map (JPG)](./docs/stateful-vs-stateless-workloads-with-iac-mind-map.jpg)
 - [Session resource: Mind Map (PDF)](./docs/stateful-vs-stateless-workloads-with-iac-mind-map.pdf)
+- [Beware the Stateless vs. Stateful Fallacies: Making Informed Decisions in System Design](https://community.aws/posts/beware-the-stateless-vs-stateful-fallacies-making-informed-decisions-in-system-design) blog post at [community.aws](https://community.aws/).
 
 ## Content of the Session
 
